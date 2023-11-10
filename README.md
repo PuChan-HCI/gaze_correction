@@ -57,18 +57,6 @@ The codes at the local and remote sides are the same. However, parameters "tar_i
 "sender_port": 5005 <br />
 "sender_port": 5005 <br />
 
-# Environmental setup
-Python 3.5.3 <br />
-Tensorflow 1.8.0 <br />
-Cuda V9.0.176 and corresponding cuDnn <br />
-
-# Required packages
-Dlib 18.17.100 <br />
-OpenCV 3.4.1 <br />
-Numpy 1.15.4 + mkl <br />
-pypiwin32 <br />
-scipy 0.19.1 <br />
-
 # DIRL Gaze Dataset
 ![System usage Example](https://github.com/chihfanhsu/gaze_correction/blob/master/imgs/dataset_collection.PNG)
 <br />
