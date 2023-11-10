@@ -1,0 +1,7 @@
+protobuf==3.20.*
+tensorflow==1.13.1
+numpy==1.15.4
+mkl
+opencv-python==3.4.*
+pypiwin32
+scipy
