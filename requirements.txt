@@ -4,4 +4,4 @@ numpy==1.15.4
 mkl
 opencv-python==3.4.*
 pypiwin32
-scipy
+scipy==1.7.3
