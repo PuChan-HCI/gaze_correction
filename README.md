@@ -1,25 +1,4 @@
 Correcting gaze by warping-based convolutional neural network.
-# Paper
-@article{Hsu:2019:LMC:3339884.3311784,<br />
-author = {Hsu, Chih-Fan and Wang, Yu-Shuen and Lei, Chin-Laung and Chen, Kuan-Ta},<br />
- title = {Look at Me\\\&Excl; Correcting Eye Gaze in Live Video Communication},<br />
- journal = {ACM Trans. Multimedia Comput. Commun. Appl.},<br />
- issue_date = {June 2019},<br />
- volume = {15},<br />
- number = {2},<br />
- month = jun,<br />
- year = {2019},<br />
- issn = {1551-6857},<br />
- pages = {38:1--38:21},<br />
- articleno = {38},<br />
- numpages = {21},<br />
- url = {http://doi.acm.org/10.1145/3311784},<br />
- doi = {10.1145/3311784},<br />
- acmid = {3311784},<br />
- publisher = {ACM},<br />
- address = {New York, NY, USA},<br />
- keywords = {Eye contact, convolutional neural network, gaze correction, <br />image processing, live video communication},<br />
-} <br />
 
 # Demo video on YouTube
 [![Look at Me! Correcting Eye Gaze in Live Video Communication](https://github.com/chihfanhsu/gaze_correction/blob/master/imgs/YouTube_page.PNG)](https://youtu.be/9nAHINph5a4)
@@ -84,3 +63,25 @@ scipy 0.19.1 <br />
 <br />
 37 Asian volunteers participated in our dataset collection. About 100 gaze directions are collected in range +40 to -40 degrees in horizontal and +30 to -30 degrees in vertical, in which 63 and 37 images are fixed and random direction, respectively. The images with closed eyes were removed.
 [Download here!](https://sites.google.com/site/chihfanhsuwebsite/dataset)
+
+# Paper
+@article{Hsu:2019:LMC:3339884.3311784,<br />
+author = {Hsu, Chih-Fan and Wang, Yu-Shuen and Lei, Chin-Laung and Chen, Kuan-Ta},<br />
+ title = {Look at Me\\\&Excl; Correcting Eye Gaze in Live Video Communication},<br />
+ journal = {ACM Trans. Multimedia Comput. Commun. Appl.},<br />
+ issue_date = {June 2019},<br />
+ volume = {15},<br />
+ number = {2},<br />
+ month = jun,<br />
+ year = {2019},<br />
+ issn = {1551-6857},<br />
+ pages = {38:1--38:21},<br />
+ articleno = {38},<br />
+ numpages = {21},<br />
+ url = {http://doi.acm.org/10.1145/3311784},<br />
+ doi = {10.1145/3311784},<br />
+ acmid = {3311784},<br />
+ publisher = {ACM},<br />
+ address = {New York, NY, USA},<br />
+ keywords = {Eye contact, convolutional neural network, gaze correction, <br />image processing, live video communication},<br />
+} <br />
