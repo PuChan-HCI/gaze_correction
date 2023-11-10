@@ -19,6 +19,13 @@ python regz_socket_MP_FD.py
 
 ```
 
+# Sending the gaze-redirected video to ZooM via virtual webcam
+Install OBS virtual camera. Get it from [here!](https://obsproject.com/)
+```python
+pip install pyvirtualcam
+python virtual_camera.py
+```
+
 # Demo on YouTube
 [![Look at Me! Correcting Eye Gaze in Live Video Communication](https://github.com/chihfanhsu/gaze_correction/blob/master/imgs/YouTube_page.PNG)](https://youtu.be/9nAHINph5a4)
 
