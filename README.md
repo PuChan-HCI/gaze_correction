@@ -25,6 +25,9 @@ Install OBS virtual camera. Get it from [here!](https://obsproject.com/)
 pip install pyvirtualcam
 python virtual_camera.py
 ```
+From zoom's setting, choose the OBS virtual camera.
+<br />
+![Zoom's setting](https://github.com/chihfanhsu/gaze_correction/blob/master/imgs/zoom.jpg)
 
 # Demo on YouTube
 [![Look at Me! Correcting Eye Gaze in Live Video Communication](https://github.com/chihfanhsu/gaze_correction/blob/master/imgs/YouTube_page.PNG)](https://youtu.be/9nAHINph5a4)
