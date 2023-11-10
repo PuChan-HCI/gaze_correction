@@ -5,6 +5,10 @@
 # Create python2.7 virtual environment
 conda create -n gaze python=2.7
 
+# Clone this repository
+git clone https://github.com/PuChan-HCI/gaze_correction.git
+cd .\gaze_correction
+
 # Install necessary libraries
 pip install -r requirements.txt
 pip install dlib\dlib-19.22.99-cp37-cp37m-win_amd64.whl
