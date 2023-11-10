@@ -1,5 +1,13 @@
 # Correcting gaze by warping-based convolutional neural network.
 
+```python
+conda create -n gaze python=2.7
+pip install -r requirements.txt
+pip install dlib\dlib-19.22.99-cp37-cp37m-win_amd64.whl
+cd gaze_correction\gaze_correction_system 
+python regz_socket_MP_FD.py 
+```
+
 # Demo video on YouTube
 [![Look at Me! Correcting Eye Gaze in Live Video Communication](https://github.com/chihfanhsu/gaze_correction/blob/master/imgs/YouTube_page.PNG)](https://youtu.be/9nAHINph5a4)
 
