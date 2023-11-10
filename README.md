@@ -1,6 +1,7 @@
 # Correcting gaze by warping-based convolutional neural network.
 
 ```python
+
 # Create python2.7 virtual environment
 conda create -n gaze python=2.7
 
@@ -10,7 +11,8 @@ pip install dlib\dlib-19.22.99-cp37-cp37m-win_amd64.whl
 
 # Run
 cd gaze_correction\gaze_correction_system 
-python regz_socket_MP_FD.py 
+python regz_socket_MP_FD.py
+
 ```
 
 # Demo video on YouTube
