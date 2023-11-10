@@ -84,3 +84,4 @@ author = {Hsu, Chih-Fan and Wang, Yu-Shuen and Lei, Chin-Laung and Chen, Kuan-Ta
  address = {New York, NY, USA},<br />
  keywords = {Eye contact, convolutional neural network, gaze correction, <br />image processing, live video communication},<br />
 } <br />
+
