@@ -5,3 +5,4 @@ mkl
 opencv-python==3.4.*
 pypiwin32
 scipy==1.7.3
+
