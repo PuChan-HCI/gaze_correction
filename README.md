@@ -14,7 +14,7 @@ pip install -r requirements.txt
 pip install dlib\dlib-19.22.99-cp37-cp37m-win_amd64.whl
 
 # Run
-cd gaze_correction\gaze_correction_system 
+cd gaze_correction_system 
 python regz_socket_MP_FD.py
 
 ```
