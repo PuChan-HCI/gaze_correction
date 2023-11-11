@@ -2,8 +2,8 @@
 
 ```python
 
-# Create python2.7 virtual environment
-conda create -n gaze python=2.7
+# Create python3.7 virtual environment
+conda create -n gaze python=3.7
 
 # Clone this repository
 git clone https://github.com/PuChan-HCI/gaze_correction.git
