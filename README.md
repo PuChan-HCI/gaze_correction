@@ -23,6 +23,9 @@ python regz_socket_MP_FD.py
 Install OBS virtual camera. Get it from [here!](https://obsproject.com/)
 ```python
 pip install pyvirtualcam
+
+# Run
+# Instead of "regz_socket_MP_FD.py" run below script
 python virtual_camera.py
 ```
 From zoom's setting, choose the OBS virtual camera.
